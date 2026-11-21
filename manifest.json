@@ -1,0 +1,240 @@
+{
+ "images": [
+  "story_01.mp4",
+  "story_06.mp4",
+  "story_23.mp4",
+  "story_32.mp4",
+  "story_29.mp4",
+  "story_04.mp4",
+  "story_17.mp4",
+  "story_52.mp4",
+  "story_51.mp4",
+  "story_44.mp4",
+  "story_07.mp4",
+  "story_02.mp4",
+  "story_35.mp4",
+  "story_28.mp4",
+  "story_53.mp4",
+  "story_46.mp4",
+  "story_37.mp4",
+  "story_18.mp4",
+  "story_03.mp4",
+  "story_54.mp4",
+  "story_31.mp4",
+  "story_08.mp4",
+  "story_19.mp4",
+  "story_30.mp4",
+  "story_13.mp4",
+  "story_50.mp4",
+  "story_05.mp4",
+  "story_14.mp4",
+  "story_11.mp4",
+  "story_34.mp4",
+  "story_49.mp4",
+  "story_22.mp4",
+  "story_47.mp4",
+  "story_48.mp4",
+  "story_15.mp4",
+  "story_12.mp4",
+  "story_41.mp4",
+  "story_24.mp4",
+  "story_43.mp4",
+  "story_26.mp4",
+  "story_33.mp4",
+  "story_16.mp4",
+  "story_45.mp4",
+  "story_40.mp4",
+  "story_09.mp4",
+  "story_42.mp4",
+  "story_25.mp4",
+  "story_20.mp4",
+  "story_39.mp4",
+  "story_10.mp4",
+  "story_27.mp4",
+  "story_36.mp4",
+  "story_21.mp4",
+  "story_38.mp4"
+ ],
+ "overrides": [
+  {
+   "date": "2026-11-18",
+   "slot_jst": 19,
+   "file": "aramasa1125_1118.jpg"
+  },
+  {
+   "date": "2026-11-18",
+   "slot_jst": 22,
+   "file": "aramasa1125_1118.jpg"
+  },
+  {
+   "date": "2026-11-19",
+   "slot_jst": 19,
+   "file": "minakuchi1128_1119.jpg"
+  },
+  {
+   "date": "2026-11-19",
+   "slot_jst": 22,
+   "file": "minakuchi1128_1119.jpg"
+  },
+  {
+   "date": "2026-11-20",
+   "slot_jst": 19,
+   "file": "aramasa1125_1120.jpg"
+  },
+  {
+   "date": "2026-11-20",
+   "slot_jst": 22,
+   "file": "aramasa1125_1120.jpg"
+  },
+  {
+   "date": "2026-11-21",
+   "slot_jst": 19,
+   "file": "minakuchi1128_1121.jpg"
+  },
+  {
+   "date": "2026-11-21",
+   "slot_jst": 22,
+   "file": "minakuchi1128_1121.jpg"
+  },
+  {
+   "date": "2026-11-22",
+   "slot_jst": 14,
+   "file": "minakuchi1128_v1.mp4"
+  },
+  {
+   "date": "2026-11-22",
+   "slot_jst": 17,
+   "file": "minakuchi1128_v3.mp4"
+  },
+  {
+   "date": "2026-11-22",
+   "slot_jst": 19,
+   "file": "aramasa1125_1122.jpg"
+  },
+  {
+   "date": "2026-11-22",
+   "slot_jst": 20,
+   "file": "minakuchi1128_v2.mp4"
+  },
+  {
+   "date": "2026-11-22",
+   "slot_jst": 22,
+   "file": "aramasa1125_1122.jpg"
+  },
+  {
+   "date": "2026-11-23",
+   "slot_jst": 14,
+   "file": "minakuchi1128_v2.mp4"
+  },
+  {
+   "date": "2026-11-23",
+   "slot_jst": 17,
+   "file": "minakuchi1128_1119.jpg"
+  },
+  {
+   "date": "2026-11-23",
+   "slot_jst": 19,
+   "file": "minakuchi1128_v1.mp4"
+  },
+  {
+   "date": "2026-11-23",
+   "slot_jst": 22,
+   "file": "minakuchi1128_v3.mp4"
+  },
+  {
+   "date": "2026-11-24",
+   "slot_jst": 14,
+   "file": "minakuchi1128_v3.mp4"
+  },
+  {
+   "date": "2026-11-24",
+   "slot_jst": 17,
+   "file": "minakuchi1128_1121.jpg"
+  },
+  {
+   "date": "2026-11-24",
+   "slot_jst": 19,
+   "file": "minakuchi1128_v2.mp4"
+  },
+  {
+   "date": "2026-11-24",
+   "slot_jst": 22,
+   "file": "minakuchi1128_v1.mp4"
+  },
+  {
+   "date": "2026-11-25",
+   "slot_jst": 14,
+   "file": "minakuchi1128_v1.mp4"
+  },
+  {
+   "date": "2026-11-25",
+   "slot_jst": 16,
+   "file": "minakuchi1128_1123.jpg"
+  },
+  {
+   "date": "2026-11-25",
+   "slot_jst": 17,
+   "file": "minakuchi1128_v3.mp4"
+  },
+  {
+   "date": "2026-11-25",
+   "slot_jst": 19,
+   "file": "minakuchi1128_v2.mp4"
+  },
+  {
+   "date": "2026-11-25",
+   "slot_jst": 20,
+   "file": "minakuchi1128_1126.jpg"
+  },
+  {
+   "date": "2026-11-25",
+   "slot_jst": 22,
+   "file": "minakuchi1128_v1.mp4"
+  },
+  {
+   "date": "2026-11-26",
+   "slot_jst": 14,
+   "file": "minakuchi1128_v2.mp4"
+  },
+  {
+   "date": "2026-11-26",
+   "slot_jst": 17,
+   "file": "minakuchi1128_1124.jpg"
+  },
+  {
+   "date": "2026-11-26",
+   "slot_jst": 19,
+   "file": "minakuchi1128_v3.mp4"
+  },
+  {
+   "date": "2026-11-26",
+   "slot_jst": 22,
+   "file": "minakuchi1128_v1.mp4"
+  },
+  {
+   "date": "2026-11-27",
+   "slot_jst": 14,
+   "file": "minakuchi1128_v4.mp4"
+  },
+  {
+   "date": "2026-11-27",
+   "slot_jst": 17,
+   "file": "minakuchi1128_1127.jpg"
+  },
+  {
+   "date": "2026-11-27",
+   "slot_jst": 19,
+   "file": "minakuchi1128_v4.mp4"
+  },
+  {
+   "date": "2026-11-27",
+   "slot_jst": 22,
+   "file": "minakuchi1128_v4.mp4"
+  },
+  {
+   "date": "2026-11-28",
+   "slot_jst": 14,
+   "file": "minakuchi1128_v1.mp4"
+  }
+ ]
+}
